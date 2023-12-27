@@ -6,8 +6,9 @@
  3. Ardently invoved in creating data model, implemented data transformations and calculations using DAX for accurate analysis and reporting.
 
 PBIX File Link:https://drive.google.com/file/d/1VODPFCALdkOpfxBpT25fXMSRPuRaG7yv/view?usp=sharing
-PDF Link:https://drive.google.com/file/d/1QBpuh3EbybuDB-uKK9aZGrGjoXu_jDc1/view?usp=sharing
-https://drive.google.com/drive/folders/1e0XYdU0YHQOkh53NpkcwDAqdUyDkjbug
+PDF Link:https://drive.google.com/drive/folders/1e0XYdU0YHQOkh53NpkcwDAqdUyDkjbug
+
+
 
 
  
