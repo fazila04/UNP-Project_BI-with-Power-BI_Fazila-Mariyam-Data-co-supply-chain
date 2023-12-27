@@ -7,5 +7,7 @@
 
 PBIX File Link:https://drive.google.com/file/d/1VODPFCALdkOpfxBpT25fXMSRPuRaG7yv/view?usp=sharing
 PDF Link:https://drive.google.com/file/d/1QBpuh3EbybuDB-uKK9aZGrGjoXu_jDc1/view?usp=sharing
+file:///C:/Users/Admin/Downloads/Fazila_mariyam_project%20(1)%20(2).pdf
+
  
  
