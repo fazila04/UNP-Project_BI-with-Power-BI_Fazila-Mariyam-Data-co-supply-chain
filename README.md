@@ -1,4 +1,4 @@
-# UNP-Project_BI-with-Power-BI_Fazila-Mariyam-Data-co-supply-chain
+# UNP-Project_BI-with-Power-BI_Data-co-supply-chain
   Completed this project as a part of my BI with United Network of Professionals(UNP)
   Key Highlights
  1. Contributed to the development of intricate KPIs and dynamic, interactive Power BI interfaces.
